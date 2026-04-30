@@ -1,0 +1,6 @@
+source_row_id,pkd_2007_code_raw,pkd_2007_name_raw,pkd_2025_code_raw,pkd_2025_name_raw,scope_raw,matching_classes_count_raw,relation_marker_raw,source_file,notes_raw
+1,23,Produkcja wyrobów z pozostałych mineralnych surowców niemetalicznych,23,Produkcja wyrobów z pozostałych mineralnych surowców niemetalicznych,,3,,legal_pdf_ocr.xlsx,sample row from OCR output
+2,23,Produkcja wyrobów z pozostałych mineralnych surowców niemetalicznych,29,Produkcja pojazdów silnikowych produkcja przyczep i naczep,,3,,legal_pdf_ocr.xlsx,sample row from OCR output
+3,23.11.Z,Produkcja szkła płaskiego,23.11.Z,Produkcja szkła płaskiego,podklasa PKD 2007 jest w pełni objęta podklasą PKD 2025,1,,legal_pdf_ocr.xlsx,sample row from OCR output
+4, 23.12.Z ,Kształtowanie i obróbka szkła płaskiego,23.12.Z,Kształtowanie i obróbka szkła płaskiego,"produkcja arkuszy lub kształtek szklanych giętych; produkcja bezpiecznego szkła hartowanego",2,1,legal_pdf_ocr.xlsx,extra spaces from OCR
+5,O1.10.Z,Uprawy rolne,01.10.Z,Uprawy rolne,,1,1,legal_pdf_ocr.xlsx,possible OCR error: O instead of 0
