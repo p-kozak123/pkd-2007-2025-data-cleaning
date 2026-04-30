@@ -71,20 +71,23 @@ pkd-2007-2025-data-cleaning/
 ```
 
 ## Example data quality checks
-Missing PKD codes
-Duplicate records
-Invalid code format
-Empty activity descriptions
-OCR-related formatting errors
-Records requiring manual verification
-Final output
+
+- Missing PKD codes
+- Duplicate records
+- Invalid code format
+- Empty activity descriptions
+- OCR-related formatting errors
+- Records requiring manual verification
+
+## Final output
 
 The final output is a cleaned PKD dataset prepared in Excel, including:
 
-cleaned PKD table,
-data quality summary,
-list of records requiring manual review,
-short documentation of the cleaning process.
-Key takeaway
+- cleaned PKD table,
+- data quality summary,
+- list of records requiring manual review,
+- short documentation of the cleaning process.
+
+## Key takeaway
 
 This project shows a practical data analysis workflow: from PDF source data and OCR extraction, through SQL-based cleaning and validation, to a clean Excel output prepared for business users.
