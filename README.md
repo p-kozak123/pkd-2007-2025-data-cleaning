@@ -68,7 +68,9 @@ pkd-2007-2025-data-cleaning/
 │   └── pkd_mapping_clean_sample.xlsx
 └── docs/
     └── project_summary.pdf
-Example data quality checks
+```
+
+## Example data quality checks
 Missing PKD codes
 Duplicate records
 Invalid code format
