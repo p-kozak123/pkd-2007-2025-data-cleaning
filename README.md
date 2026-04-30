@@ -67,9 +67,11 @@ pkd-2007-2025-data-cleaning/
 │   └── 03_quality_checks.sql
 └── README.md
 ```
-## Note on sample data
+### Note on sample data
 
-This repository includes a small sample dataset for portfolio demonstration purposes. The sample reflects the structure of the OCR-exported PKD mapping table and shows typical cleaning issues such as extra spaces, duplicate-like mappings and possible OCR recognition errors.
+This repository presents a public preview of a larger professional data cleaning project. The full workflow involved processing approximately 400 pages of PKD classification tables published in a legal PDF document.
+
+Only a small sample dataset is included for portfolio demonstration purposes. The sample reflects the structure of the OCR-exported PKD mapping table and shows typical cleaning issues such as extra spaces, duplicate-like mappings and possible OCR recognition errors.
 
 The full dataset is not included.
 
